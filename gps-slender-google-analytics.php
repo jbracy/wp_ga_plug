@@ -32,7 +32,7 @@ function slender_ga_settings_page() {
 			?>
 				<div class="updated"><p><strong>Settings Saved</strong></p></div>
 			<?
-      $value = esc_attr( $_POST['ga_id'] ) );
+      $value = esc_attr( $_POST['ga_id'] );
   }
 
 		?>
